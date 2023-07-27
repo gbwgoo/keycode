@@ -124,6 +124,8 @@ var Keycode = UMap{
 	"down":  57424,
 	"left":  57419,
 	"right": 57421,
+	// mac
+	"caps_control": 3613,
 }
 
 // Special is the special key map
